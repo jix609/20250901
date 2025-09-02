@@ -2,6 +2,10 @@
 
 int maim(void){
 
-	printf("testing.....\n")q
+	printf("asdasdasda");
+	printf("sdads");
+
+	sleep(1);
 	return 0;
 }
+
