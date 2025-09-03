@@ -6,7 +6,7 @@ int maim(void){
 	printf("sdads");
 
 	sleep(1);
-	printf("bendan");
+	printf("bendan12138");
 	return 0;
 }
 
